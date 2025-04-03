@@ -1,6 +1,6 @@
 [
     {"date": "2025-04-01", "meditation": 0.10, "exercise": 0, "career": 0.45, "knowledge": 0},
-    {"date": "2025-04-02", "meditation": 0, "exercise": 0, "career": 0, "knowledge": 0},
+    {"date": "2025-04-02", "meditation": 0, "exercise": 0, "career": 0.30, "knowledge": 0},
     {"date": "2025-04-03", "meditation": 0, "exercise": 0, "career": 0, "knowledge": 0},
     {"date": "2025-04-04", "meditation": 0, "exercise": 0, "career": 0, "knowledge": 0},
     {"date": "2025-04-05", "meditation": 0, "exercise": 0, "career": 0, "knowledge": 0},
