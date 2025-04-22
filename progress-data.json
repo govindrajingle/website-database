@@ -19,7 +19,7 @@
     {"date": "2025-04-18", "meditation": 0, "exercise": 0, "career": 0, "knowledge": 0},
     {"date": "2025-04-19", "meditation": 0, "exercise": 0, "career": 5, "knowledge": 0},
     {"date": "2025-04-20", "meditation": 0, "exercise": 0, "career": 0, "knowledge": 0},
-    {"date": "2025-04-21", "meditation": 0, "exercise": 0, "career": 0, "knowledge": 0},
+    {"date": "2025-04-21", "meditation": 0, "exercise": 0, "career": 0.3, "knowledge": 0.3},
     {"date": "2025-04-22", "meditation": 0, "exercise": 0, "career": 1.40, "knowledge": 0},
     {"date": "2025-04-23", "meditation": 0, "exercise": 0, "career": 0, "knowledge": 0},
     {"date": "2025-04-24", "meditation": 0, "exercise": 0, "career": 0, "knowledge": 0},
